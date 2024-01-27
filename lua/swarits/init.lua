@@ -1,2 +1,3 @@
 require("swarits.remap")
-print("hello from swarits")
+require("swarits.set")
+print("initalized swarits init.lua")
